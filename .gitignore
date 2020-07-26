@@ -1,0 +1,4 @@
+src/**/*
+!src/lambda_function.py
+!src/realtor.py
+deploy_package.zip
